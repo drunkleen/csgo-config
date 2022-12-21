@@ -1,5 +1,5 @@
-###Feature
-#### Hotkeys
+### Features:
+##### Hotkeys
 ```
  F1 - Console
  F2 - Help
@@ -15,7 +15,7 @@
  PageUp - Left Hand
  PageDown - Right Hand
  ```
- #### Quick Buy
+ ##### Quick Buy
  ```
  Keypad 1 - Buy AWP
  Keypad 2 - Buy AK47 or M4
@@ -31,7 +31,7 @@
  Keypad ENTER - Armor + Helmet
  Keypad + Key - Defuser [when you are CT]```
 ```
-
+### How To Install:
 ##### 1- Open the CS:GO directory, for example:
 ```
 G:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
