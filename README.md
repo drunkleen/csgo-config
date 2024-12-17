@@ -1,4 +1,4 @@
-# CS:GO Configs by DrunkLeen
+# CS2Configs by DrunkLeen
 
 Welcome to my custom CS:GO configuration setup! This config is designed to optimize gameplay with useful key binds, quick buy commands, and unique features to enhance your experience.
 
